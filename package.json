@@ -1,0 +1,19 @@
+{
+  "name": "shree-typescript",
+  "version": "1.0.0",
+  "description": "Learning and exploring the power of TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shree",
+    "shree.ooo",
+    "typescript"
+  ],
+  "author": "Shirish Munukuntla <me@shree.ooo>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}
